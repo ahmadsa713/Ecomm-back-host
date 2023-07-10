@@ -9,7 +9,7 @@ https://ecomm-back-end.onrender.com/
 deployed using render.com
 
 
-##to locally run
+## To locally run
 
 make sure you have maven installed
 
